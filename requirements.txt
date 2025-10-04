@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain_openai
+python-dotenv
+arxiv
+wikipedia
+langgraph-cli[inmem]
+faiss-cpu
+langchain_tavily
+langgraph_supervisor
+langchain_huggingface
+sentence-transformers
+langsmith
+openai
+pandas
